@@ -1,0 +1,22 @@
+commit 34cc456de89e66d3a817746b9ca65300876622a8
+Author: sai sai <asuasaira@gmail.com>
+Date:   Thu Feb 26 14:25:54 2026 -0300
+
+    feat: redesign navigation, app user manual, and contact screens
+
+commit f4840a26221da6d4fa13965073fea250bf5d8e0c
+Author: santiagocetran <santiagorcetran236@gmail.com>
+Date:   Thu Feb 26 01:14:55 2026 -0300
+
+    Add Next.js 14 website redesign for LibreIncu
+    
+    Full redesign from MkDocs to Next.js 14 + TypeScript + Tailwind CSS.
+    Preserves all original content across 10 pages with modern UI.
+    
+    Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+
+commit 2f41c287dcf325b3cfc0941c3303005029aaa335
+Author: santiagocetran <santiagorcetran236@gmail.com>
+Date:   Wed Feb 25 21:38:52 2026 -0300
+
+    Initial Next.js 14 website redesign for LibreIncu

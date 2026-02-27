@@ -1,0 +1,13 @@
+ M src/app/buenas-practicas/page.tsx
+ M src/app/ecosistema/page.tsx
+ M src/app/especificaciones/page.tsx
+ M src/app/huevos/page.tsx
+ M src/app/manual/page.tsx
+ M src/app/page.tsx
+ M src/app/solucion-problemas/page.tsx
+ M src/components/PageHeader.tsx
+?? check.js
+?? gitlog.txt
+?? gitstatus.txt
+?? log.utf8.txt
+?? public/

@@ -152,10 +152,6 @@ export default function Home() {
                 Soberanía Tecnológica y Alimentaria
               </span>
             </h1>
-            <p className="text-lp-gray text-lg sm:text-xl leading-relaxed mb-8 max-w-2xl">
-              Desarrollo colectivo de hardware e infraestructura abierta para potenciar la
-              Agricultura Familiar, Campesina e Indígena (AFCI) frente a los oligopolios corporativos.
-            </p>
             <div className="flex flex-wrap gap-4">
               <Link href="/nosotros" className="btn-primary flex items-center gap-2">
                 Conocé el Proyecto
